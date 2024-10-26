@@ -1,11 +1,11 @@
 num = 5
 
 def fact(num):
-    result = 1
+    res = 1
     while num >= 1:
-        result = result*num
+        res = result*num
         num-=1
-    return result
+    return res
     
 res = fact(num)
 print(res)
