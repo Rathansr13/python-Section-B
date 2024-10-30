@@ -14,3 +14,4 @@ for val in list1:
         smallest = val
 
 print(f"Smallest in the given list is = {smallest}") 
+
